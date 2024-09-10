@@ -1,0 +1,16 @@
+.booked {
+  background-color: red;
+}
+
+.available {
+  background-color: green;
+}
+
+div {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin: 2px;
+  text-align: center;
+  line-height: 30px;
+}
